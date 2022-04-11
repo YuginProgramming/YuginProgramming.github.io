@@ -1,0 +1,25 @@
+
+
+.warning {
+	
+	font-size: 30px;
+}
+	
+.warning {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: center;
+    flex-direction: column;
+}
+
+.warning img {
+    width: 10px;
+	high: 30px;
+}
+
+.warning img {
+    width: 40px;
+}
+
+
